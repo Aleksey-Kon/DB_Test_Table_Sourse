@@ -1,0 +1,26 @@
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\WpfApp16.exe.config
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\WpfApp16.exe
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\WpfApp16.pdb
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\EntityFramework.dll
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\System.Data.SQLite.dll
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\EntityFramework.xml
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\bin\Release\System.Data.SQLite.xml
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\DB Test Table.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\MainWindow.g.cs
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\SettingsWindow.g.cs
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\App.g.cs
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16_MarkupCompile.cache
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16_MarkupCompile.lref
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\MainWindow.baml
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\SettingsWindow.baml
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16.g.resources
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16.Properties.Resources.resources
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\DB Test Table.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\DB Test Table.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\DB Test .CDBF848F.Up2Date
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16.exe
+C:\Users\acer\source\repos\WpfApp16\WpfApp16\obj\Release\WpfApp16.pdb
